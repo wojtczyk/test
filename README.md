@@ -1,2 +1,2 @@
 # test
-test repository for automation
+Test repository for automation purposes. There is nothing to see here. Really.
